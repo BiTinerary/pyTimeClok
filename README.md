@@ -1,4 +1,4 @@
-# TkinterGspreadTimeClok
+# pyTimeClok
 tKinter GUI for time stamping Google Sheets
 
 ## Over all
