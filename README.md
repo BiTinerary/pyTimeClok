@@ -1,5 +1,5 @@
 # pyTimeClok
-tKinter GUI for time stamping Google Sheets<br>
+<center>tKinter GUI for time stamping Google Sheets</center><br>
 <br>
 <img src=https://github.com/BiTinerary/pyTimeClok/blob/master/pyTimeImage.png>
 
