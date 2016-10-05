@@ -1,5 +1,7 @@
 # pyTimeClok
-tKinter GUI for time stamping Google Sheets
+tKinter GUI for time stamping Google Sheets<br>
+<br>
+<img src=https://github.com/BiTinerary/pyTimeClok/blob/master/pyTimeImage.png>
 
 ## Over all
 Searches hardcoded name of spreadsheet for a cell matching end user inputs. ie: Employee name<br>
