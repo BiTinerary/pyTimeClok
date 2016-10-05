@@ -9,7 +9,7 @@ Searches hardcoded name of spreadsheet for a cell matching end user inputs. ie: 
 
 Does the same for locating today's date regex, which in turn provides row location.
 
-Uses above row/column tuple as cell coordinates for "Clock In and Clockout" buttons, which fire their functions.</br>
+Uses above row/column tuple as cell coordinates for "Clock In and Clockout" buttons.</br>
 * Default Tuple == Clock In</br>
 * DefaultTuple[1] + 1 == ClockOut</br>
 * These Tkinter buttons contain lambda functions that execute respective Clock In/Out Functions.</br>
