@@ -1,7 +1,5 @@
-import gspread
 from oauth2client.service_account import ServiceAccountCredentials
-import re
-import datetime
+import datetime, gspread, re
 import Tkinter as tk
 from Tkinter import IntVar
 
